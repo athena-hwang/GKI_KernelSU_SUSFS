@@ -66,7 +66,7 @@ ANDROID_KERNEL_MAP = {
 # 仓库配置
 KSU_REPO_CONFIG = {"repo_url": "https://github.com/ReSukiSU/ReSukiSU.git",
                     "branch": "main",
-                    "setup_script": "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/refs/heads/main/kernel/setup.sh"}
+                    "setup_script": "https://raw.githubusercontent.com/ReSukiSU/ReSukiSU/main/kernel/setup.sh"}
 
 # SUSFS 仓库配置
 SUSFS_REPO_CONFIG = {"repo_url": "https://github.com/ShirkNeko/susfs4ksu.git"}
